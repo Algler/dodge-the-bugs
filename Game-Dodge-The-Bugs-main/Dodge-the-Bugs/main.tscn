@@ -1,0 +1,5 @@
+[gd_scene load_steps=2 format=3 uid="uid://dgl7ub0h2saod"]
+
+[ext_resource type="PackedScene" uid="uid://gpmslksjsocs" path="res://dodgethebugs-main/main.tscn" id="1_0n2p1"]
+
+[node name="main" instance=ExtResource("1_0n2p1")]
